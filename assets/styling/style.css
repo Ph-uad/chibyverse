@@ -36,7 +36,7 @@ body {
 }
 
 p {
-  margin: 1.4rem .5rem;
+  margin: 1.4rem 0;
 }
 
 /*  */
@@ -63,8 +63,7 @@ img {
   justify-content: space-between;
 }
 
-main {
-  /* padding: 5% 20%; */
+main { 
   display: flex;
   flex-direction: column;
   gap: 3rem;
